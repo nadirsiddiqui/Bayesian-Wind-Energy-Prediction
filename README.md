@@ -11,6 +11,10 @@ Data from the year 2016 were used to train a Bayesian linear regression model to
 
 The code in the notebook can be executed using the JupyterLab application.
 
+## Data & Packages
+
+The data and packages used can be found [here](https://virginia.box.com/s/lkefhwag3gwggrtpcee5jz1iqp6un6q3).
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
